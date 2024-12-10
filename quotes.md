@@ -5,13 +5,15 @@
 > "I'm smart enough to know that I'm dumb." - Richard Feynman (added by Hugo Bergerioux)
 
 > "People get wiser with age, but I am one of those who get weirder." - Brandon Sanderson (added by Iñaki Fernandez)
-
+ 
+> "Success usually comes to those who are too busy to be looking for it." Henry David Thoreau (Added by Fateme Baneshi) 
 
 > "With Great Power Comes Great Responsibility." - Uncle Ben (added by Raul Quiben)
-
 
 > "Be yourself; everyone else is already taken." - Oar Wilde (added by João Carvalho)
 
 > "This is one small step for a man, one giant leap for mankind." - Neil Armstrong (added by Jorge Simón)
-
+ 
 > "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein (Donato Cardone)
+
+> "This play is looking really good"  - Abraham Lincoln (added by Matteo Ripoli) 
